@@ -1,0 +1,20 @@
+.myListTable {
+  background-color: transparent;
+  text-align: center;
+  border-collapse: separate;
+  border-spacing: 30px 10px;
+  border: 2px solid red;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.myListTable button {
+  background-color: red;
+  border-radius: 50%;
+  outline-style: none;
+  cursor: pointer;
+}
+
+h3 {
+  font-size: 1.6em;
+}
