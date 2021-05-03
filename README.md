@@ -1,27 +1,3 @@
-# SD260 Final Project: MITTFlix React
-
-This is your final project from SD260 Intro to React. Your grade on this project will make-up 60% of your final grade in this course.
-
-Read these instructions and watch the demo video carefully. While this project may look very similar to past MITTFlix projects, it is quite different in terms of functionality.
-
-If there are differences between the instructions and the demo, the instructions are to be considered correct.
-
-## Submissions and Deadline
-
-Submit a ZIP file containing all the files necessary to run your solution. Ensure you DO NOT include the node_modules folder in your ZIP file.
-
-Final Projects are due Thursday, January 28th, 2020 @ 3:15 PM.
-
-Projects that are submitted late are subject to an immediate 20% penalty, plus additional 20% for every additional 24-hour period that elapses prior to submission.
-
-## Demo and Instructions
-
-View the [demonstration video](https://web.microsoftstream.com/video/4e29ef9a-e0fb-4d9f-aa29-6fefed732a7b) of this app.
-
-To begin, clone the app from [this repository](https://github.com/cmacmitt/sd260-final.git)
-
-All the HTML and CSS is already included in App.js and index.css files. You'll need to perform an npm install to install all the packages necessary to run the application. Performing this includes the installation of React Router, so you won't have to do that separately.
-
 #### To start this app
 
 To start this app, you will need to run 2 separate commands.
